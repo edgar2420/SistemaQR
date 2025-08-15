@@ -12,7 +12,7 @@ Gestor web para generar, imprimir y escanear códigos QR asociados a ítems (equ
 * Tests: Vitest/Jest, Supertest (API), Cypress.
 ## Dependencias útiles
 # Frontend
-npm i react-router-dom axios @zxing/library
+npm i react-router-dom axios @zxing/library <br>
 npm i -D tailwindcss postcss autoprefixer
 ## Flujos clave del Front
 * Listado de ítems con filtros y paginación.
