@@ -11,7 +11,7 @@ Gestor web para generar, imprimir y escanear códigos QR asociados a ítems (equ
 * DB: PostgreSQL (consulta SQL directa o mediante ORM ligero).
 * Tests: Vitest/Jest, Supertest (API), Cypress.
 ## Dependencias útiles
-# Frontend
+### Frontend
 npm i react-router-dom axios @zxing/library <br>
 npm i -D tailwindcss postcss autoprefixer
 ## Flujos clave del Front
